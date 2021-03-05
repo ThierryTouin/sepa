@@ -1,0 +1,17 @@
+{
+  "name": "csv2sepa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thierry Touin",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.0",
+    "csv-parser": "^3.0.0",
+    "fs": "0.0.1-security",
+    "sepa-xml": "^0.6.0"
+  }
+}
